@@ -143,7 +143,7 @@ img.add_border {
                             <li><a href="./../blog/index.html">blog</a></li>
                         </ul>
                       </li>
-                     <li><a href='week2-9.html'>week2-9</a><li><a href='Q&A.html'>Q&A</a><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
+                     <li class='has-children'><a href='week.html'>week</a><ul class='dropdown'><li><a href='week2-5.html'>week2-5</a><li><a href='week6-9.html'>week6-9</a><li><a href='week10-14.html'>week10-14</a><li><a href='week15-18.html'>week15-18</a></li></ul><li><a href='note.html'>note</a><li><a href='About.html'>About</a><li><a href='Develop.html'>Develop</a></li>
                       </ul>
                 </nav>
               </div>
@@ -154,7 +154,7 @@ img.add_border {
           </div>
           
         </header>
-    <div id="tipue_search_content"> <a href='Q&A.html'>Next</a> >> Q&A<br /><h1>week2-9</h1>
+    <div id="tipue_search_content">week << <a href='week.html'>Previous</a> <a href='week6-9.html'>Next</a> >> week6-9<br /><h1>week2-5</h1>
 <h4>week2</h4>
 <p><strong>創建github倉儲並且練習github指令</strong></p>
 <p>1.創立並且加入課程倉儲git clone到近端上(至mde.tw中下載2019fall可攜套件)。</p>
@@ -225,57 +225,7 @@ img.add_border {
 <p><span><span style="color: #ff0000;">split line</span>(I)</span></p>
 <p><span><span style="color: #ff0000;">tangent arc</span>(shift+A)</span></p>
 <p><span><span style="color: #ff0000;">benchmark</span><span>(P)</span></span></p>
-<h4>week6</h4>
-<h5><strong>1.參數化零組件繪製二輪自走車</strong></h5>
-<p>1.<span style="color: #ff0000;">將solvespace打開</span></p>
-<p>2.<span style="color: #ff0000;">繪製輪胎及輪軸</span></p>
-<p>(1)繪製一圓圈(使用指令c)作為輪胎</p>
-<p>(2)運用New Group中的sketh in new workplace(快捷鍵為shift+w)進入草圖中所選定的基準面</p>
-<p>(3)在草圖中運用上述C快捷鍵繪製一圓作為輪軸並且輸入其長度</p>
-<p>(4)儲存零件等等作為組立時使用</p>
-<p>3.<span style="color: #ff0000;">繪製車身</span></p>
-<p>(1)繪製車身本體，並且輸入其安裝輪軸時的長度及車身的長度和厚度</p>
-<p>(2)車身前端必須做除料，繪製好要除料的部分之後用difference將該部位去除</p>
-<p>(3)在車身兩個立面打上輪軸孔以便等一下安裝車軸</p>
-<p>4.<span style="color: #ff0000;">組立自走車</span></p>
-<p>(1)將輪軸零件已在車身零件檔中開啟</p>
-<p>(2)運用平行的功能將輪軸軸心與孔的軸心平行對準</p>
-<p>(3)運用重和鍵將輪軸與孔重合</p>
-<p>(4)重複(1)-(3)的步驟將另外一輪之輪軸組立起來</p>
-<p><span style="color: #ff0000;">操作影片</span>:</p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/gb6F9qCXXJw" width="560"></iframe></p>
-<p><span style="color: #ff0000;">成品圖:</span></p>
-<p><span style="color: #ff0000;"><img alt="" height="462" src="./../images/2222.PNG" width="500"/></span></p>
-<h5><strong>2.網際 V-rep 模型控制:</strong></h5>
-<p><span style="color: #ff0000;"><span style="color: #000000;">1.將mde.tw中的task1打開，並且下載其中的 V-rep 3.6.1 rev 4.7z 壓縮檔和網際 V-rep 模型控制: web_vrep2.zip (local)</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">2.將隨身碟中start_mdecourse打開並且在其中輸入regedit</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">3.打上regedit後會將登錄編輯程式打開，按下第一個HKEY_CLASSES_ROOT並用編輯中的尋找，尋找.py</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">4.再找到路徑.py_auto_file/shell/edit/command</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">5.將.py這個機碼和其子機碼刪除(包刮py_auto_file)</span><br/><span style="color: #000000;">(若尋找時找不到.py之資料夾,則1到5點可以不做)</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">6.從下載下來的web_vrep2中app.py用編輯器開啟</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">7.從下載下來的路徑V-REP3\V-REP_PRO_EDU中找到vrep.exe</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">8.用v_rep中的file的open scene將下載下來的web_vrep2中two_wheeler.ttt打開</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">9.剛剛編輯器開啟之app.py使用編輯器的tool中的go將其控制器開啟</span></span></p>
-<p><span style="color: #ff0000;"><span style="color: #000000;">10.使用<span style="color: #ff0000;">localhost:</span></span>5000<span style="color: #000000;">將控制器開啟</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">11.運用控制器的前後左右測試是否可以控制車子</span></span></p>
-<p><span style="color: #ff0000;"><br/><span style="color: #000000;">12v-rep必須要將右上方開始鈕按下</span><br/></span></p>
-<p><span style="color: #ff0000;">操作影片:</span></p>
-<p><span style="color: #ff0000;"><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/BlHlEKtHXXQ" width="560"></iframe></span><span style="color: #ff0000;"></span></p>
-<h5><strong>3.<span>新增啟動與停止按鈕:</span></strong></h5>
-<p>1.將mde_course打開</p>
-<p><br/>2.用編輯器開啟<span style="color: #ff0000;">templates</span>中的<span style="color: #ff0000;">controls.html</span></p>
-<p><br/>3.在第19行打上從下方向左按鈕指令複製來的指令並且將其改寫成start和stop</p>
-<p><br/>4.因為有start和stop兩個按鈕所以必須要放置兩行指令</p>
-<p><br/>5.結束後儲存並且用上方tool中的go測試是否已將按鈕放入</p>
-<p><br/>6.用編輯器開啟<span style="color: #ff0000;">vrep_linefollower</span>定義其中開始和結束按鈕</p>
-<p><br/>7.到課程網站中的老師倉儲中尋找issue</p>
-<p><br/>8.其中有一項issue為置入start和stop按鈕的指令</p>
-<p><br/>9.複製並且依照影片中將其貼上</p>
-<p><br/>10.在每行指令前定義好所需的指令例如:(if else elif)</p>
-<p><br/>11.打開<span style="color: #ff0000;">vrep.exe</span>並且用編輯器打開<span style="color: #ff0000;">app.py</span>並執行tool中的go</p>
-<p><br/>12.測試是否有成功運行</p>
-<p><span style="color: #ff0000;">操作影片:</span></p>
-<p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/FAtCC3hs9m4" width="560"></iframe></p><br /> <a href='Q&A.html'>Next</a> >> Q&A</div>
+<br />week << <a href='week.html'>Previous</a> <a href='week6-9.html'>Next</a> >> week6-9</div>
         
     <!-- footer -->
       <div class="container">
