@@ -115,8 +115,10 @@
 <p><br/>2.用編輯器開啟<span style="color: #ff0000;">templates</span>中的<span style="color: #ff0000;">controls.html</span></p>
 <p><br/>3.在第19行打上從下方向左按鈕指令複製來的指令並且將其改寫成start和stop</p>
 <p><br/>4.因為有start和stop兩個按鈕所以必須要放置兩行指令</p>
+<p><span style="color: #ff0000;">指令:</span>&lt;td&gt;&lt;a class="pure-button pure-button-primary" href="/do/start"&gt;start&lt;/a&gt;&lt;/td&gt;&lt;a class="pure-button pure-button-primary" href="/do/stop"&gt;stop&lt;/a&gt;&lt;/td&gt;</p>
 <p><br/>5.結束後儲存並且用上方tool中的go測試是否已將按鈕放入</p>
 <p><br/>6.用編輯器開啟<span style="color: #ff0000;">vrep_linefollower</span>定義其中開始和結束按鈕</p>
+<p><span style="color: #ff0000;">指令:</span>if direction == 'start':<br/> vrep.simxStartSimulation(self.clientID, vrep.simx_opmode_oneshot)<br/> elif direction == 'stop':<br/> vrep.simxStopSimulation(self.clientID, vrep.simx_opmode_oneshot)<br/> else :</p>
 <p><br/>7.到課程網站中的老師倉儲中尋找issue</p>
 <p><br/>8.其中有一項issue為置入start和stop按鈕的指令</p>
 <p><br/>9.複製並且依照影片中將其貼上</p>
@@ -125,7 +127,28 @@
 <p><br/>12.測試是否有成功運行</p>
 <p><span style="color: #ff0000;">操作影片:</span></p>
 <p><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/FAtCC3hs9m4" width="560"></iframe></p>
-<h2>week10-14</h2>
+<h4>week7</h4>
+<h5><strong>(1).solvespace編譯-更改HELP中ABOUT的VERSION</strong></h5>
+<p>1.開啟solvespace.cpp找到952行在solvespace後方加上compiled by 自己的學號</p>
+<p><br/>2.刪除舊的這個路徑中201906_fall\tmp\solvespace\build\src\CMakeFiles的</p>
+<p>solvespace.cpp.obj檔，此檔案若無刪除solvespace就只會讀取這個舊有的檔案</p>
+<p><br/>3.進入solvespace資料夾中的這個資料夾用指令cd build</p>
+<p><br/>4.在黑窗中打上mingw32-make</p>
+<p><br/>5.開啟solvespace</p>
+<p><br/>6.在help中的about是否有compiled by 自己學號</p>
+<p><span style="color: #ff0000;">操作影片:</span></p>
+<p><span style="color: #ff0000;"><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/w_DRQ-40tzw" width="560"></iframe></span></p>
+<h5><strong>(2.)solvespace繪圖驗證</strong></h5>
+<p>1.將solvespace打開</p>
+<p>2.繪製本體外徑為5.75厚度為1.5的圓</p>
+<p>3.轉到主要工作平面並且移除一外徑為5.25厚度為1.25的圓型孔</p>
+<p>4.轉到主要工作平面，繪製一外徑為3.5的參考圓並且在其影片提到之位置會上4組具有外徑1厚度為0.25且中央有一0.5孔之特徵</p>
+<p>5.轉道主要工作平面移除中央外徑4.25之圓型孔</p>
+<p>6.轉道主要工作平面繪製8個外徑為0.5的圓型孔所有大小可以使用快捷鍵G使其一致</p>
+<p><span style="color: #ff0000;">操作影片:</span></p>
+<p><span style="color: #ff0000;"><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/FdNvkbKEUZ4" width="560"></iframe></strong></span></p>
+<p><span style="color: #ff0000;">成品圖:</span></p>
+<p><span style="color: #ff0000;"><img alt="" height="457" src="/images/23.PNG" width="500"/></span></p><h2>week10-14</h2>
 <h2>week15-18</h2>
 <h1>note</h1>
 <p>Question:<span style="color: #ff0000;">修正Commitg 失敗無法push的bug，如何解除此bug?</span></p>
