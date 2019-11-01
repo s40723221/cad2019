@@ -69,7 +69,7 @@ Created by [邱正宇](https://s40723221.github.io/cad2019/content/index.html)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># 投影片快捷鍵
+<t tx="leo.20180902120523.12"># W1-W5內容
 
 * 利用箭頭上下前後換頁
 * 按 f 鍵進入全螢幕模式 (full screen)
