@@ -21,11 +21,17 @@
 <v t="leo.20180902120523.9"><vh>封面投影片</vh>
 <v t="leo.20180902120523.10"><vh>封面投影片內容</vh></v>
 </v>
-<v t="leo.20180902120523.11"><vh>快捷鍵</vh>
-<v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20180902120523.11"><vh>week2-5</vh>
+<v t="leo.20180902120523.12"><vh>week2-week5</vh></v>
 </v>
-<v t="leo.20191101165550.1"><vh>快捷鍵</vh>
-<v t="leo.20191101165550.2"><vh>投影片快捷鍵</vh></v>
+<v t="leo.20191101165550.1"><vh>week6</vh>
+<v t="leo.20191101165550.2"><vh>week6</vh></v>
+</v>
+<v t="leo.20191101204940.1"><vh>week7</vh>
+<v t="leo.20191101204940.2"><vh>week7</vh></v>
+</v>
+<v t="leo.20191101213116.1"><vh>week8</vh>
+<v t="leo.20191101213116.2"><vh>week8</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -50,14 +56,16 @@
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## 40723221 網際內容管理
 
-### 邱正宇
 
 &lt;small&gt;
 Created by [邱正宇](https://s40723221.github.io/cad2019/content/index.html)
 &lt;/small&gt;
 
-[CMSimfly 網誌](https://s40723221.github.io/cad2019/blog/index.html)
+[倉儲](https://github.com/s40723221/cad2019)
 
+[網誌](https://s40723221.github.io/cad2019/blog/index.html)
+
+[網站](https://s40723221.github.io/cad2019/content/index.html)
 
 </t>
 <t tx="leo.20180902120523.11">&lt;section data-markdown&gt;
@@ -72,12 +80,18 @@ Created by [邱正宇](https://s40723221.github.io/cad2019/content/index.html)
 <t tx="leo.20180902120523.12"># W2-W5內容
 
 &lt;small&gt;
-Created by [w2-w5內容](https://s40723221.github.io/cad2019/content/week2-5.html)
+[w2-w5內容](https://s40723221.github.io/cad2019/content/week2-5.html)
 &lt;/small&gt;
-*w2:建立個人倉儲並下載新的個人可攜套件
-*w3:編譯solvespace，學會如何編譯自己的solvespace
-*w4:將之前的影片新增加浮水印並且補上以前的進度
-*w5:練習之前編譯的solvespace並且熟悉solvespace的操作方式</t>
+
+* w2:建立個人倉儲並下載新的個人可攜套件
+
+* w3:編譯solvespace
+
+* w4:影片新增浮水印並補上以前的進度
+
+* w5:練習之solvespace熟悉solvespace的操作方式
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
@@ -334,15 +348,70 @@ vertical: body pane on the botton</t>
 
 						
 </t>
-<t tx="leo.20191101165550.2"># 投影片快捷鍵
+<t tx="leo.20191101165550.2"># w6內容
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
+&lt;small&gt;
+[w6-w9內容](https://s40723221.github.io/cad2019/content/week6-9.html)
+&lt;/small&gt;
+* (完成任務1 任務2 任務3)
 
+* 任務1:參數化零組件繪製二輪自走車
+
+* 任務2:網際 V-rep 模型控制
+
+* 任務3:新增啟動與停止按鈕
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
+
+&lt;small&gt;
+[{完成上述任務之後回報到issue}](https://github.com/mdecourse/cad2019/issues/16)
+&lt;/small&gt;</t>
+<t tx="leo.20191101204940.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191101204940.2"># w7內容
+
+&lt;small&gt;
+[w6-w9內容](https://s40723221.github.io/cad2019/content/week6-9.html)
+&lt;/small&gt;
+* (完成任務1 任務2)
+
+* 任務1:solvespace編譯-更改HELP中ABOUT的VERSION
+
+* 任務2:solvespace繪圖驗證
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
+
+&lt;small&gt;
+[{完成上述任務之後回報到issue}](https://github.com/mdecourse/cad2019/issues/18)
+&lt;/small&gt;</t>
+<t tx="leo.20191101213116.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191101213116.2"># w8內容
+
+&lt;small&gt;
+[w6-w9內容](https://s40723221.github.io/cad2019/content/week6-9.html)
+&lt;/small&gt;
+* 建立webot開啟檔案
+
+* 開啟網誌
+
+* 讓ssh對github連線
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
 </t>
 </tnodes>
 </leo_file>
