@@ -56,7 +56,7 @@
 Created by [邱正宇](https://s40723221.github.io/cad2019/content/index.html)
 &lt;/small&gt;
 
-[CMSimfly 網誌](./../blog/index.html)
+[CMSimfly 網誌](https://s40723221.github.io/cad2019/blog/index.html)
 
 
 </t>
@@ -69,16 +69,15 @@ Created by [邱正宇](https://s40723221.github.io/cad2019/content/index.html)
 
 						
 </t>
-<t tx="leo.20180902120523.12"># W1-W5內容
+<t tx="leo.20180902120523.12"># W2-W5內容
 
-* 利用箭頭上下前後換頁
-* 按 f 鍵進入全螢幕模式 (full screen)
-* 按 s 鍵可以顯示投影片筆記 (show)
-* 按 o 鍵可以切換單張或全域檢視 (overview)
-* 按 b 或 . 鍵可以切換螢幕黑屏 (black)
-* 按 Esc 可以退出全螢幕或全域檢視 (Escape)
-
-</t>
+&lt;small&gt;
+Created by [w2-w5內容](https://s40723221.github.io/cad2019/content/week2-5.html)
+&lt;/small&gt;
+*w2:建立個人倉儲並下載新的個人可攜套件
+*w3:編譯solvespace，學會如何編譯自己的solvespace
+*w4:將之前的影片新增加浮水印並且補上以前的進度
+*w5:練習之前編譯的solvespace並且熟悉solvespace的操作方式</t>
 <t tx="leo.20180902120523.13">&lt;section&gt;
 @others
 &lt;/section&gt;
