@@ -247,13 +247,25 @@
 <p><span color="#ff0000" style="color: #000000;"><span>(7)開啟webot中的open sample world測試是否可以導入</span></span></p>
 <p><span style="color: #ff0000;"><strong>操作影片:</strong></span></p>
 <p><span style="color: #ff0000;"><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/B233m5n3rBY" width="560"></iframe></strong></span></p>
-<p><span style="color: #ff0000;"><span color="#ff0000" style="color: #ff0000;"><b>2.開啟網誌:</b></span></span></p>
-<p><span color="#ff0000" style="color: #ff0000;">(1)將leo edit開起來</span></p>
-<p><span color="#ff0000" style="color: #ff0000;">(2)將config中的pelican.leo丟入leo edit裡面</span></p>
-<p><span color="#ff0000" style="color: #ff0000;">(3)修改影片中有講的路徑中的siteurl更改成自己blog網址</span></p>
-<p><span color="#ff0000" style="color: #ff0000;">(4)依照影片中的步驟將指令複製並在黑窗中執行</span></p>
+<p><span color="#ff0000"><b>2.開啟網誌:</b></span></p>
+<p><span color="#ff0000">(1)將leo edit開起來</span></p>
+<p><span color="#ff0000">(2)將config中的pelican.leo丟入leo edit裡面</span></p>
+<p><span color="#ff0000">(3)修改影片中有講的路徑中的siteurl更改成自己blog網址</span></p>
+<p><span color="#ff0000">(4)依照影片中的步驟將指令複製並在黑窗中執行</span></p>
 <p><span style="color: #ff0000;"><span color="#ff0000" style="color: #ff0000;"><b><strong>操作影片:</strong></b></span></span></p>
-<p><span style="color: #ff0000;"><span color="#ff0000" style="color: #ff0000;"><b><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/hbqsdVeMIVQ" width="560"></iframe></strong></b></span></span></p><h2>week10-14</h2>
+<p><span style="color: #ff0000;"><span color="#ff0000" style="color: #ff0000;"><b><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/hbqsdVeMIVQ" width="560"></iframe></strong></b></span></span></p>
+<p><span color="#ff0000"><b>3.以ssh對github連線:</b></span></p>
+<p><span color="#ff0000">(1)到y槽的portablegit將sh_for_solvespace檔案複製並修改成sh.exe</span></p>
+<p><span color="#ff0000"><span>(2)進入黑窗輸入sh和</span></span><code>ssh-keygen -t rsa -b 4096 -C "使用者學號"</code></p>
+<p><span face="monospace" style="font-family: monospace;"><span>(3)下載putty連線工具箱並利用其中的puttygen創建兩把金鑰</span></span></p>
+<p><span face="monospace" style="font-family: monospace;"><span>(4)修改啟動器中的指令</span></span></p>
+<pre><code>set GIT_HOME=%Disk%:\portablegit\bin\
+set GIT_SSH=%Disk%:\putty\plink.exe<br/><br/>(5)進入config中更改指令</code><code>url = <a href="mailto:git@github.com:mdecourse/cad2019.git在mdecourse的地">git@github.com:mdecourse/cad2019.git在mdecourse的地</a>方要改成自己的學號</code></pre>
+<p><span face="monospace" style="font-family: monospace;"><span>(6)開啟putty.exe進去設定github.com和proxy位置其中ssh中的auth的地方必須選取剛剛創建的金鑰</span></span></p>
+<p><span face="monospace" style="font-family: monospace;"><span>(7)用編輯器複製課程網站中的step6指令並且儲存放入.ssh資料夾之中</span></span></p>
+<p><span face="monospace" style="font-family: monospace;"><span>(8)進入github並且在setting中的ssh將金鑰開啟並複製放入金鑰設置處</span></span></p>
+<p><span color="#ff0000" style="color: #ff0000;"><b><strong>操作影片:</strong></b></span></p>
+<p><span color="#ff0000" style="color: #ff0000;"><b><strong><iframe allowfullscreen="allowfullscreen" height="314" src="//www.youtube.com/embed/w56Q2zEDcQw" width="560"></iframe></strong></b></span></p><h2>week10-14</h2>
 <h2>week15-18</h2>
 <h1>note</h1>
 <p>Question:<span style="color: #ff0000;">修正Commitg 失敗無法push的bug，如何解除此bug?</span></p>
