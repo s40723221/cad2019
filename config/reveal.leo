@@ -30,6 +30,9 @@
 <v t="leo.20191101204940.1"><vh>week7</vh>
 <v t="leo.20191101204940.2"><vh>week7</vh></v>
 </v>
+<v t="leo.20191106214650.1"><vh>week7 video</vh>
+<v t="leo.20191106214650.2"><vh>week7</vh></v>
+</v>
 <v t="leo.20191101213116.1"><vh>week8</vh>
 <v t="leo.20191101213116.2"><vh>week8</vh></v>
 </v>
@@ -167,7 +170,7 @@ make.start()
 
 ### 導入影片 template
 
-&lt;iframe src="https://player.vimeo.com/video/183950627" width="640" height="492" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="700" height="500" src="https://www.youtube.com/embed/DPGFLOkC_h4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 </t>
 <t tx="leo.20180902120523.2"></t>
 <t tx="leo.20180902120523.3">@language xml
@@ -413,5 +416,16 @@ vertical: body pane on the botton</t>
 
 [youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
 </t>
+<t tx="leo.20191106214650.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191106214650.2"># w7繪圖影片範例:
+&lt;iframe width="700" height="600" src="https://www.youtube.com/embed/DPGFLOkC_h4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
 </tnodes>
 </leo_file>
