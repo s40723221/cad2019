@@ -2,7 +2,7 @@ Title: About
 
 ## 40723221管理網誌
 
-期中報告影片:
+期中報告影片:<a href="https://www.youtube.com/watch?v=urQoNi4i0Xk">https://www.youtube.com/watch?v=urQoNi4i0Xk</a>
 
 個人儲倉:<a href="https://s40723221.github.io/cad2019/content/index.html">https://s40723221.github.io/cad2019/content/index.html</a>
 
