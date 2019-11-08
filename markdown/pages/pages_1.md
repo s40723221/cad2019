@@ -1,6 +1,6 @@
 Title: About
 
-## CMSimfly 內容管理網誌
+## 內容管理網誌
 
 課程倉儲: <a href="https://github.com/chiamingyen/cmsimfly">https://github.com/chiamingyen/cmsimfly</a>
 
@@ -10,10 +10,4 @@ Title: About
 
 課程網誌: <a href="https://chiamingyen.github.io/cmsimfly/blog">https://chiamingyen.github.io/cmsimfly/blog</a>
 
-
-
-
-
-
-
-
+個人倉儲:
