@@ -5,28 +5,28 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2019-11-08T22:21:50-00:00</lastmod>
+<lastmod>2019-12-02T22:35:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2019-11-08T22:21:50-00:00</lastmod>
+<lastmod>2019-12-02T22:35:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2019-11-08T22:21:50-00:00</lastmod>
+<lastmod>2019-12-02T22:35:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2019-11-08T22:21:50-00:00</lastmod>
+<lastmod>2019-12-02T22:35:47-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
@@ -34,6 +34,13 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./pages/about/</loc>
 <lastmod>2019-11-08T14:24:48+08:00</lastmod>
+<changefreq>monthly</changefreq>
+<priority>0.5</priority>
+</url>
+
+<url>
+<loc>./webot and v-rep tutorial.html</loc>
+<lastmod>2019-12-02T00:00:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -47,21 +54,21 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./category/misc.html</loc>
-<lastmod>2019-11-08T00:00:00+08:06</lastmod>
+<lastmod>2019-12-02T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tag/2018fallcp.html</loc>
-<lastmod>2019-11-08T00:00:00+08:06</lastmod>
+<lastmod>2019-12-02T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./author/qiu-zheng-yu.html</loc>
-<lastmod>2019-11-08T00:00:00+08:06</lastmod>
+<lastmod>2019-12-02T00:00:00+08:06</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
