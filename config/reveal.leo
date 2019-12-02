@@ -36,6 +36,18 @@
 <v t="leo.20191101213116.1"><vh>week8</vh>
 <v t="leo.20191101213116.2"><vh>week8</vh></v>
 </v>
+<v t="leo.20191202202229.1"><vh>week10</vh>
+<v t="leo.20191202202229.2"><vh>week10</vh></v>
+</v>
+<v t="leo.20191202202712.1"><vh>week12</vh>
+<v t="leo.20191202202712.2"><vh>week12</vh></v>
+</v>
+<v t="leo.20191202202915.1"><vh>webot tutorial</vh>
+<v t="leo.20191202202915.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191202203154.1"><vh>v-rep tutorial</vh>
+<v t="leo.20191202203154.2"><vh>v-rep tutorial</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -427,5 +439,77 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191106214650.2"># w7繪圖影片範例:
 &lt;iframe width="700" height="600" src="https://www.youtube.com/embed/DPGFLOkC_h4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;</t>
+<t tx="leo.20191202202229.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191202202229.2"># w10內容
+
+&lt;small&gt;
+[w10-w14內容](https://s40723221.github.io/cad2019/content/week10-14.html)
+&lt;/small&gt;
+* 建立分組倉儲和網站並讓組員fork
+
+* 軟體安裝和設定
+
+* 使用virtual box開啟NX
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
+</t>
+<t tx="leo.20191202202712.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191202202712.2"># w12內容
+
+&lt;small&gt;
+[w10-w14內容](https://s40723221.github.io/cad2019/content/week10-14.html)
+&lt;/small&gt;
+* 整理NX電子書的內容
+
+* 練習NX電子書中的練習題
+
+* WEBOT和V-REP的 tutorial 練習
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
+</t>
+<t tx="leo.20191202202915.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191202202915.2"># webot tutorial - 1
+&lt;iframe width="980" height="600" src="https://www.youtube.com/embed/O3Y5s9b1aO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191202203154.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191202203154.2"># v-rep tutorial
+&lt;iframe width="980" height="600" src="https://www.youtube.com/embed/OgLjr4h93Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
 </tnodes>
 </leo_file>
