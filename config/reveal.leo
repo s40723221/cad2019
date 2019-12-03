@@ -198,7 +198,7 @@ make.start()
 <t tx="leo.20180902120523.5">&lt;head&gt;
     &lt;meta charset="utf-8"&gt;
 &lt;title&gt;
-CMSimfly 網際內容管理
+40723221 reveal
 &lt;/title&gt;
     &lt;meta name="description" content="A framework for easily creating beautiful presentations using HTML"&gt;
     &lt;meta name="author" content="Hakim El Hattab"&gt;
@@ -482,7 +482,8 @@ vertical: body pane on the botton</t>
 * WEBOT和V-REP的 tutorial 練習
 
 [youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
-</t>
+
+[webot and v-rep 教程網誌](https://s40723221.github.io/cad2019/blog/webot%20and%20v-rep%20tutorial.html)</t>
 <t tx="leo.20191202202915.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
