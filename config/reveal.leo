@@ -494,7 +494,7 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20191202202915.2"># webot tutorial - 1
-&lt;iframe width="980" height="600" src="https://www.youtube.com/embed/O3Y5s9b1aO8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/WvjJnmwwXP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
@@ -508,7 +508,7 @@ vertical: body pane on the botton</t>
 						
 </t>
 <t tx="leo.20191202203154.2"># v-rep tutorial
-&lt;iframe width="980" height="600" src="https://www.youtube.com/embed/OgLjr4h93Fs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+&lt;iframe width="1280" height="720" src="https://www.youtube.com/embed/CXGJmwHt81g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
