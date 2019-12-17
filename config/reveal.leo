@@ -42,11 +42,26 @@
 <v t="leo.20191202202712.1"><vh>week12</vh>
 <v t="leo.20191202202712.2"><vh>week12</vh></v>
 </v>
-<v t="leo.20191202202915.1"><vh>webot tutorial</vh>
-<v t="leo.20191202202915.2"><vh>webot tutorial</vh></v>
-</v>
 <v t="leo.20191202203154.1"><vh>v-rep tutorial</vh>
 <v t="leo.20191202203154.2"><vh>v-rep tutorial</vh></v>
+</v>
+<v t="leo.20191217105357.1"><vh>webot tutorial</vh>
+<v t="leo.20191217105357.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191217105404.1"><vh>webot tutorial2</vh>
+<v t="leo.20191217105404.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191217105405.1"><vh>webot tutorial3</vh>
+<v t="leo.20191217105405.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191217105407.1"><vh>webot tutorial4</vh>
+<v t="leo.20191217105407.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191217105410.1"><vh>webot tutorial5</vh>
+<v t="leo.20191217105410.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191217105412.1"><vh>webot tutorial6</vh>
+<v t="leo.20191217105412.2"><vh>webot tutorial</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
@@ -484,20 +499,6 @@ vertical: body pane on the botton</t>
 [youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
 
 [webot and v-rep 教程網誌](https://s40723221.github.io/cad2019/blog/webot%20and%20v-rep%20tutorial.html)</t>
-<t tx="leo.20191202202915.1">&lt;section data-markdown&gt;
-    &lt;script type="text/template"&gt;
-@others
-    &lt;/script&gt;
-&lt;/section&gt;
-
-
-						
-</t>
-<t tx="leo.20191202202915.2"># webot tutorial - 1
-&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/WvjJnmwwXP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
-
-
-</t>
 <t tx="leo.20191202203154.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -509,6 +510,90 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191202203154.2"># v-rep tutorial
 &lt;iframe width="800" height="600" src="https://www.youtube.com/embed/CXGJmwHt81g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191217105357.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191217105357.2"># webot tutorial - 1
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/WvjJnmwwXP8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191217105404.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191217105404.2"># webot tutorial - 2
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/u4UcYEttx3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191217105405.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191217105405.2"># webot tutorial - 3
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/T4F8Gu2OMA4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191217105407.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191217105407.2"># webot tutorial - 4
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/e_boL1KLTno" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191217105410.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191217105410.2"># webot tutorial - 5
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/PyE6m2m0oo8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191217105412.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191217105412.2"># webot tutorial - 6
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/dfq4Q9sTsOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 
 </t>
