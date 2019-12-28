@@ -63,6 +63,21 @@
 <v t="leo.20191217105412.1"><vh>webot tutorial6</vh>
 <v t="leo.20191217105412.2"><vh>webot tutorial</vh></v>
 </v>
+<v t="leo.20191228215619.1"><vh>w15</vh>
+<v t="leo.20191228215619.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191228220031.1"><vh>w15video</vh>
+<v t="leo.20191228220031.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191228220128.1"><vh>w15video2</vh>
+<v t="leo.20191228220128.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191228220339.1"><vh>w16</vh>
+<v t="leo.20191228220339.2"><vh>webot tutorial</vh></v>
+</v>
+<v t="leo.20191228220613.1"><vh>w16video</vh>
+<v t="leo.20191228220613.2"><vh>webot tutorial</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -594,6 +609,97 @@ vertical: body pane on the botton</t>
 </t>
 <t tx="leo.20191217105412.2"># webot tutorial - 6
 &lt;iframe width="800" height="600" src="https://www.youtube.com/embed/dfq4Q9sTsOg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191228215619.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191228215619.2"># w15驗證
+
+&lt;small&gt;
+[w15-w18內容](https://s40723221.github.io/cad2019/content/week15-18.html)
+&lt;/small&gt;
+* 本學期學習的內容報告
+
+* nx和solvespace轉入webots差異介紹
+
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
+
+
+</t>
+<t tx="leo.20191228220031.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191228220031.2"># w15查驗影片
+
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/vVTdUxYv_Qg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191228220128.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191228220128.2"># w15轉入差異影片
+
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/RmO-6LhrdH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx="leo.20191228220339.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191228220339.2"># w16驗證
+
+&lt;small&gt;
+[w15-w18內容](https://s40723221.github.io/cad2019/content/week15-18.html)
+&lt;/small&gt;
+* 以solvespace繪製越野車
+* 試將越野車轉入webots
+* 試將越野車轉入v-rep
+
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
+
+
+</t>
+<t tx="leo.20191228220613.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20191228220613.2"># w16驗證影片
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/Kq4CeA0L3cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
 
 
 </t>
