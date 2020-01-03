@@ -78,7 +78,10 @@
 <v t="leo.20191228220613.1"><vh>w16video</vh>
 <v t="leo.20191228220613.2"><vh>webot tutorial</vh></v>
 </v>
-<v t=".20200103160350.1"><vh>w17</vh>
+<v t="leo.20200103205503.1"><vh>w17</vh>
+<v t="leo.20200103205503.2"><vh>webot tutorial</vh></v>
+</v>
+<v t=".20200103160350.1"><vh>w17-1</vh>
 <v t=".20200103160350.2"><vh>webot tutorial</vh></v>
 </v>
 <v t=".20200103160911.1"><vh>w17-2</vh>
@@ -734,6 +737,30 @@ vertical: body pane on the botton</t>
 <t tx="leo.20191228220613.2"># w16驗證影片
 &lt;iframe width="800" height="600" src="https://www.youtube.com/embed/Kq4CeA0L3cc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
+
+
+</t>
+<t tx="leo.20200103205503.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200103205503.2"># w17驗證
+
+&lt;small&gt;
+[w15-w18內容](https://s40723221.github.io/cad2019/content/week15-18.html)
+&lt;/small&gt;
+* 分工整理v-rep和webots tutorial
+* 試將越野車轉入v-rep並且設立阻尼
+* 試將轉入v-rep之越野車增加輪軸驅動及物理性質
+* 對越野車進行標註及增加件號
+
+
+[youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
 
 
 </t>
