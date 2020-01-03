@@ -78,6 +78,12 @@
 <v t="leo.20191228220613.1"><vh>w16video</vh>
 <v t="leo.20191228220613.2"><vh>webot tutorial</vh></v>
 </v>
+<v t=".20200103160350.1"><vh>w17</vh>
+<v t=".20200103160350.2"><vh>webot tutorial</vh></v>
+</v>
+<v t=".20200103160911.1"><vh>w17-2</vh>
+<v t=".20200103160911.2"><vh>webot tutorial</vh></v>
+</v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
 <v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
 <v t="leo.20180902120523.15"><vh>LaTeX 格式方程式</vh></v>
@@ -98,6 +104,34 @@
 </v>
 </vnodes>
 <tnodes>
+<t tx=".20200103160350.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200103160350.2"># w17驗證影片
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/2zJejyISYxY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
+<t tx=".20200103160911.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx=".20200103160911.2"># w17輪軸設定
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/7_sO5n1EVak" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
+
+
+</t>
 <t tx="leo.20180902120523.1"></t>
 <t tx="leo.20180902120523.10">## 40723221 電腦輔助設計實習
 
