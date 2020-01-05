@@ -36,6 +36,9 @@
 <v t="leo.20191101213116.1"><vh>week8</vh>
 <v t="leo.20191101213116.2"><vh>week8</vh></v>
 </v>
+<v t="leo.20200105142448.1"><vh>week9</vh>
+<v t="leo.20200105142448.2"><vh>week8</vh></v>
+</v>
 <v t="leo.20191202202229.1"><vh>week10</vh>
 <v t="leo.20191202202229.2"><vh>week10</vh></v>
 </v>
@@ -84,7 +87,10 @@
 <v t=".20200103160350.1"><vh>w17-1</vh>
 <v t=".20200103160350.2"><vh>webot tutorial</vh></v>
 </v>
-<v t=".20200103160911.1"><vh>w17-2</vh>
+<v t="leo.20200105142155.1"><vh>w17-2</vh>
+<v t="leo.20200105142155.2"><vh>webot tutorial</vh></v>
+</v>
+<v t=".20200103160911.1"><vh>w17-3</vh>
 <v t=".20200103160911.2"><vh>webot tutorial</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
@@ -520,6 +526,7 @@ vertical: body pane on the botton</t>
 &lt;small&gt;
 [w10-w14內容](https://s40723221.github.io/cad2019/content/week10-14.html)
 &lt;/small&gt;
+
 * 建立分組倉儲和網站並讓組員fork
 
 * 軟體安裝和設定
@@ -527,7 +534,8 @@ vertical: body pane on the botton</t>
 * 使用virtual box開啟NX
 
 [youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
-</t>
+
+[BG2網站內容](https://s40723221.github.io/cad2019bg2/)</t>
 <t tx="leo.20191202202712.1">&lt;section data-markdown&gt;
     &lt;script type="text/template"&gt;
 @others
@@ -762,6 +770,33 @@ vertical: body pane on the botton</t>
 
 [youtube連結](https://www.youtube.com/channel/UCYIwgvgpUmrSZSNgJpFhPyg?view_as=subscriber)
 
+
+</t>
+<t tx="leo.20200105142155.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200105142155.2"># w17尺寸標註
+&lt;img src="https://i.imgur.com/9VBSXsK.png" width="800" height="500"&gt;&lt;/a&gt;
+
+
+</t>
+<t tx="leo.20200105142448.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200105142448.2"># w9期中報告
+&lt;iframe width="800" height="600" src="https://www.youtube.com/embed/urQoNi4i0Xk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen&gt;&lt;/iframe&gt;
 
 </t>
 </tnodes>
